@@ -1,0 +1,11 @@
+{
+  "name": "lambda-hello-world",
+  "version": "0.0.1",
+  "description": "Hello World in Amazon Lambda.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chosak/lambda-hello-world.git"
+  },
+  "license": "ISC"
+}

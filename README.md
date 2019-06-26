@@ -1,1 +1,1 @@
-# lambda-hello-world
+lambda-hello-world
